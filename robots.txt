@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://cplezanoe814.github.io/order-kaiyuns-com-cn/sitemap.xml
